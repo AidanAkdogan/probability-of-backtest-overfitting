@@ -171,11 +171,10 @@ A realistic research scenario where selection bias can cause noise strategies to
 Severe overfitting detected. The best backtest is almost certainly luck. This serves as a critical sanity check and validates the implementation.
 
 ---
-
----
 ![Comparative PBO analysis across datasets](plots/comparative_analysis.png)
+**PBO correctly increases as signal-to-noise decreases, validating the framework.**
+---
 
-*PBO correctly increases as signal-to-noise decreases, validating the framework.*
 ---
 
 ## Diagnostic Visualizations
