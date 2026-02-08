@@ -172,6 +172,12 @@ Severe overfitting detected. The best backtest is almost certainly luck. This se
 
 ---
 
+---
+![Comparative PBO analysis across datasets](plots/comparative_analysis.png)
+
+*PBO correctly increases as signal-to-noise decreases, validating the framework.*
+---
+
 ## Diagnostic Visualizations
 
 The framework generates multiple research-grade diagnostics:
