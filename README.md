@@ -185,6 +185,9 @@ The framework generates multiple research-grade diagnostics:
 - **Comparative PBO analysis:** Overfitting risk across datasets
 - **CSCV heatmaps:** Stability of strategy performance across 252 splits
 - **Rank transition matrices:** Probabilistic mapping from IS rank to OOS rank
+- **Selection Bias Evolution:** How selection bias evolves over the different CSCV splits
+
+![Selection Bias Evolution Example](plots/pbo_random_noise_selection_bias.png)
 
 Together, these provide both statistical and intuitive evidence of selection bias.
 
