@@ -6,7 +6,7 @@ This repository implements the **Probability of Backtest Overfitting (PBO)** fra
 
 > **Core question:** > _If I optimize over many strategies and pick the best backtest, what is the probability it fails on new data?_
 
-![Performance degradation under strategy selection](plots/pbo_degradation.png)
+![Performance degradation under strategy selection](plots/degradation_scatter.png)
 
 *In-sample vs out-of-sample Sharpe ratios for selected strategies.  
 Points below the diagonal indicate performance degradation due to selection bias.*
